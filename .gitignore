@@ -1,6 +1,9 @@
-*.class
+class testprogram
+{
+public static void main(String str[])
 
-# Package Files #
-*.jar
-*.war
-*.ear
+{
+System.out.println("hello");
+
+}
+}
